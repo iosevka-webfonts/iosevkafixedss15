@@ -1,4 +1,4 @@
-# Iosevkafixedss15 WebFont 32.2.0
+# Iosevkafixedss15 WebFont 32.2.1
 
 ## How to use
 
